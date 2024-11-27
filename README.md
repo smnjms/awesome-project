@@ -1,1 +1,1 @@
-
+<a href="https://drips.network/app/projects/github/smnjms/awesome-project" target="_blank"><img src="https://www.drips.network/api/embed/project/https%3A%2F%2Fgithub.com%2Fsmnjms%2Fawesome-project/support.png?background=light&style=drips&text=me&stat=none" alt="Support awesome-project on drips.network" height="32"></a>
